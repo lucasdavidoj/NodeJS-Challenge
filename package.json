@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "sequelize": "^6.7.0",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.1.4"
   },
   "devDependencies": {
     "kill-port": "^1.6.1",
